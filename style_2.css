@@ -11,7 +11,7 @@ body {
     -webkit-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
-    width: 232px;    
+    width: 300px;    
 }
 
 .face {
@@ -245,5 +245,22 @@ body {
     }
 }
 
+.Start {
+    margin-top: 30px;
+    position: relative;
+    width: 232px;
+}
 
+.bordeR {
+    border: #0b1522 3px solid;
+    border-style:double;
+}
 
+.textCard {
+    text-align: center;
+    padding: 10px;
+}
+.textCard a{    
+    color: white;
+    font-size: 25px;
+}
